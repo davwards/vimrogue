@@ -1,0 +1,13 @@
+body {
+  background: black;
+}
+
+#world {
+  font-size: 18px;
+  width: auto;
+  height: auto;
+  background: black;
+  color: white;
+  font-family: monospace;
+  border: solid white 1px;
+}
